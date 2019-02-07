@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1478872484 source:c:\users\hpc\desktop\esi\algo\tp algo n.01 sfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1478830961 c:\users\hpc\desktop\esi\algo\tp algo n.01 sfsd\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1478872484 source:c:\users\hpc\desktop\esi\algo\tp algo n.01 sfsd\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"functions.h"
+
+1478877409 source:c:\users\hpc\desktop\tp algo n.01 sfsd\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"functions.h"
+
+1478830961 c:\users\hpc\desktop\tp algo n.01 sfsd\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1478877623 source:c:\users\hpc\desktop\tp algo n.01 sfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
